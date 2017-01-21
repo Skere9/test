@@ -1,0 +1,3 @@
+This is a new file.  I am creating it within git and placing it initially in "my_branch_01". 
+
+Let's see what happens next.
